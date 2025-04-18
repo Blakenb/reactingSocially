@@ -23,7 +23,7 @@ ReactingSocially is a social networking API built with Node.js, Express, and Mon
 
 ## Documentation
 
-[Watch the video!](https://drive.google.com/file/d/1-Rd6368w7-rS7o4n5pNiTK0pxG_EPo1z/view?usp=sharing)
+[Watch the video!]()
 
 - [Repository for the project](https://github.com/Blakenb/reactingSociallyE)
 
