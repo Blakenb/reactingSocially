@@ -1,24 +1,24 @@
 [
     {
-      "thoughtText": "Driver picks the music, shotgun shuts his cakehole.",
-      "username": "Dean Winchester",
+      "thoughtText": "I wore the red pants today.",
+      "username": "Deadpool",
       "createdAt": { "$date": "2025-04-12T10:00:00Z" },
       "reactions": [
         {
-          "reactionBody": "Classic Dean.",
-          "username": "Sam Winchester",
+          "reactionBody": "good lord deadpool.",
+          "username": "Ironman",
           "createdAt": { "$date": "2025-04-12T10:30:00Z" }
         }
       ]
     },
     {
-      "thoughtText": "I lost my shoe...",
-      "username": "Sam Winchester",
+      "thoughtText": "I can't believe you did that.",
+      "username": "Ironman",
       "createdAt": { "$date": "2025-04-12T11:00:00Z" },
       "reactions": [
         {
           "reactionBody": "I can't take you anywhere.",
-          "username": "Dean Winchester",
+          "username": "Deadpool",
           "createdAt": { "$date": "2025-04-12T11:10:00Z" }
         }
       ]
